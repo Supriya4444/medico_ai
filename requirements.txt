@@ -1,0 +1,4 @@
+flask
+pywebio
+langchain
+langchain-groq
